@@ -1,4 +1,4 @@
-# Reto 20/01/2026 – CompareEnergy
+# Reto 20/01/2026 – ConsonantsVowels
 
 ## Enunciado
 Se recibe una cadena de caracteres con un mensaje.
